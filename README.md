@@ -1,1 +1,1 @@
-# Conflict Resolution
+# Conflict Resolution by Torre Taylor
